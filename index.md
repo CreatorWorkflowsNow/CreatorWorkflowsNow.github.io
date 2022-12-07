@@ -6,18 +6,18 @@ permalink: /
 ---
 # Creator Workflows Lab Guides
 
-## Travel Request
+## Travel Request Lab
 
 In this lab, you will get hands-on experience in creating a Travel Request application using the ServiceNow platform. Many concepts are covered such as Building Tables, Record Producers, Integrations and Workflows within App Engine Studio - our low-code application development interface for developers of any level of experience.
 
 [Begin][TravelRequestLabLink]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-## Telework Case Management
+## Telework Case Management Lab
 
 Help Amanda and the Office of Regulatory Affairs convert a PDF based approval process into a digital workflow. 
 
 [Begin][TeleworkLabLink]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[TravelRequestLabLink]: https://creatorworkflowsnow.github.io/docs/lab_travelrequest/
-[TeleworkLabLink]: https://creatorworkflowsnow.github.io/docs/lab_telework/
+[TravelRequestLabLink]: /docs/lab_travelrequest/
+[TeleworkLabLink]: /docs/lab_telework/
 [TeleworkLabExternalLink]: https://low-code.guide/docs/Telework/Introduction/
